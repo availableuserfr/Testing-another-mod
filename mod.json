@@ -1,0 +1,13 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081"
+	},
+	"id": "availableuserfr.holdrespawn",
+	"name": "Hold Through Respawn",
+	"version": "v1.0.0",
+	"developer": "availableuserfr",
+	"description": "Keep holding jump while dead in practice mode and you'll start holding the moment you respawn.",
+	"tags": ["gameplay", "enhancement"]
+}
